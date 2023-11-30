@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "1dd5b773effc63be",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b0be6fcb8af3f92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52272eb63efbb43b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "总览/C++基础/C++.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fff08f8fe11dae7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2509f9ca513b770f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "822336bda1046349",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0eeae8d0abb89d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b975558fdf6bde63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ecb09c1f893d755a",
+    "type": "split",
+    "children": [
+      {
+        "id": "81dfba2b2bec421c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46323c84c44537d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "总览/C++基础/C++.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e65707ac39de3ed7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "总览/C++基础/C++.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a66943d1915e2122",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a2fad7de451e1f78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "总览/C++基础/C++.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "822336bda1046349",
+  "lastOpenFiles": [
+    "文件.md",
+    "总览/C++基础/C++.md",
+    "是指掌握多种技能，并能利用多种技能独立完成产品的人。.md",
+    "微信图片_20231018163323.jpg",
+    "obsidian he.md",
+    "未命名.canvas",
+    "总览/操作系统/未命名.canvas",
+    "总览/数据库/mongodb",
+    "总览/数据库/redis",
+    "总览/数据库/mysql",
+    "总览/服务器/框架.md",
+    "总览/服务器/已知游戏框架",
+    "总览/计算机网络",
+    "总览/未命名.md",
+    "总览/服务器/基础工具",
+    "总览/服务器/中间件",
+    "总览/游戏服务器/未命名.md",
+    "总览/lua",
+    "总览/linux命令",
+    "总览/服务器",
+    "C++基础.md"
+  ]
+}

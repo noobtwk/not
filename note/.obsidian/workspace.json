@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总览/C++基础/C++.md",
+                "file": "总览/语言/C++/C++基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总览/C++基础/C++.md",
+                "file": "总览/语言/C++/C++基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总览/C++基础/C++.md",
+                "file": "总览/语言/C++/C++基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总览/C++基础/C++.md"
+                "file": "总览/语言/C++/C++基础.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "822336bda1046349",
   "lastOpenFiles": [
+    "总览/语言",
     "文件.md",
-    "总览/C++基础/C++.md",
+    "总览/语言/C++/C++基础.md",
     "是指掌握多种技能，并能利用多种技能独立完成产品的人。.md",
     "微信图片_20231018163323.jpg",
     "obsidian he.md",
